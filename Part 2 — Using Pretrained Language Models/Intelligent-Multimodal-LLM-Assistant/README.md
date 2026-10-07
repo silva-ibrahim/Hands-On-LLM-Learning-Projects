@@ -62,11 +62,11 @@ The project was developed using Visual Studio Code and executed using Google Col
 
 ### Multimodal Assistant Output
 
-![Multimodal Assistant Output](screenshots/multimodal-assistant-output.png)
+![Multimodal Assistant Output](screenshots/multimodal-assistant-output.png.jpg)
 
 ### Input Image
 
-![Input Image](screenshots/input-image.png)
+![Input Image](screenshots/input-image.png.jpg)
 
 ## Related Learning
 

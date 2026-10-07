@@ -65,11 +65,11 @@ The project was developed using Visual Studio Code and executed using Google Col
 
 ### Text Classification
 
-![Sentiment Classification](screenshots/sentiment-classification.png)
+![Sentiment Classification](screenshots/sentiment-classification.png.jpg)
 
 ### Topic Analysis
 
-![Topic Analysis](screenshots/topic-analysis.png)
+![Topic Analysis](screenshots/topic-analysis.png.jpg)
 
 ## Related Learning
 

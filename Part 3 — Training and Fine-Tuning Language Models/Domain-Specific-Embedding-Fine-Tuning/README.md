@@ -57,7 +57,7 @@ The project was developed using Visual Studio Code and executed using Google Col
 
 ### Fine-Tuning Output
 
-![Fine-Tuning Output](screenshot/fine-tuning-output.png)
+![Fine-Tuning Output](screenshot/fine-tuning-output.png.jpg)
 
 ## Related Learning
 

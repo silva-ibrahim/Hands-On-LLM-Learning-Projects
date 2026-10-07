@@ -58,7 +58,7 @@ The project was developed using Visual Studio Code and executed using Google Col
 
 ### Classification Output
 
-![Classification Output](screenshot/classification-output.png)
+![Classification Output](screenshot/classification-output.png.jpg)
 
 ## Related Learning
 

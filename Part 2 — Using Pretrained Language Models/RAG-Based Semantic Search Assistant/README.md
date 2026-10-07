@@ -54,7 +54,7 @@ The project was developed using Visual Studio Code and executed using Google Col
 
 ### RAG Assistant Output
 
-![RAG Assistant Output](screenshot/rag-assistant-output.png)
+![RAG Assistant Output](screenshot/rag-assistant-output.png.jpg)
 
 ## Related Learning
 

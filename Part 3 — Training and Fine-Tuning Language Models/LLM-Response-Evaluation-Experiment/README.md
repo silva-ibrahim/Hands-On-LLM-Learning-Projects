@@ -47,7 +47,7 @@ The project was developed using Visual Studio Code and executed using Google Col
 
 ### Evaluation Output
 
-![Evaluation Output](screenshot/evaluation-output.png)
+![Evaluation Output](screenshot/evaluation-output.png.jpg)
 
 ## Related Learning
 
