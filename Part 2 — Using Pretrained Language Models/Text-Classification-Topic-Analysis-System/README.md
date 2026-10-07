@@ -28,6 +28,7 @@ The project consists of two related modules: text classification and topic analy
 
 ## Project Structure
 
+```text
 Text-Classification-Topic-Analysis-System/
 ├── README.md
 ├── LICENSE

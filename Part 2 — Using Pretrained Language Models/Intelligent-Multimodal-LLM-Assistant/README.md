@@ -26,6 +26,7 @@ The application processes an input image and answers questions about its content
 
 ## Project Structure
 
+```text
 Intelligent-Multimodal-LLM-Assistant/
 ├── README.md
 ├── LICENSE

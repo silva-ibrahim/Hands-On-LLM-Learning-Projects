@@ -25,6 +25,7 @@ The project demonstrates a basic RAG workflow by retrieving relevant information
 
 ## Project Structure
 
+```text
 RAG-Based-Semantic-Search-Assistant/
 ├── README.md
 ├── LICENSE

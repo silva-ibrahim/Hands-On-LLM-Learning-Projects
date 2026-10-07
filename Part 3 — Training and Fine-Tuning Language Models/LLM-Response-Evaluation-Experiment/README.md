@@ -25,6 +25,7 @@ The experiment compares expected answers with model-generated answers and calcul
 
 ## Project Structure
 
+```text
 LLM-Response-Evaluation-Experiment/
 ├── README.md
 ├── LICENSE

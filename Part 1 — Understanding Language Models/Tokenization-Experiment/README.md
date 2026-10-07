@@ -26,9 +26,9 @@ The experiment uses the `distilgpt2` tokenizer from Hugging Face Transformers an
 * GPT-2 Tokenizer (`distilgpt2`)
 * Visual Studio Code
 * Google Colab
-
 ## Project Structure
 
+```text
 Tokenization-Experiment/
 ├── README.md
 ├── LICENSE

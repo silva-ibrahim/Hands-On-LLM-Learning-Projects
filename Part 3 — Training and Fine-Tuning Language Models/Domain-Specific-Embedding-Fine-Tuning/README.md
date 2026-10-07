@@ -28,6 +28,7 @@ The experiment uses Computer Engineering-related sentence pairs and compares the
 
 ## Project Structure
 
+```text
 Domain-Specific-Embedding-Fine-Tuning/
 ├── README.md
 ├── LICENSE

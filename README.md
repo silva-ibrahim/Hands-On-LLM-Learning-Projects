@@ -8,6 +8,7 @@ The projects were developed alongside machine learning and natural language proc
 
 ## Repository Structure
 
+```text
 Hands-On-LLM-Learning-Projects/
 ├── README.md
 ├── LICENSE

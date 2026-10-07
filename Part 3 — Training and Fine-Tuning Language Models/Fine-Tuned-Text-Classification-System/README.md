@@ -29,6 +29,7 @@ The experiment uses Computer Engineering-related sentence data and fine-tunes a 
 
 ## Project Structure
 
+```text
 Fine-Tuned-Text-Classification-System/
 ├── README.md
 ├── LICENSE
