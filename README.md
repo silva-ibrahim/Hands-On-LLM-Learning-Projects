@@ -10,11 +10,76 @@ The projects were developed alongside machine learning and natural language proc
 
 ```text
 Hands-On-LLM-Learning-Projects/
-├── README.md
+│
+├── .gitignore
 ├── LICENSE
-├── Part 1 - Understanding Language Models/
-├── Part 2 - Using Pretrained Language Models/
-└── Part 3 - Training and Fine-Tuning Language Models/
+├── README.md
+│
+├── Part 1 — Understanding Language Models/
+│   │
+│   ├── Attention-Experiment/
+│   │   ├── attention-experiment.py
+│   │   ├── README.md
+│   │   ├── requirements.txt
+│   │   └── screenshot/
+│   │       └── attention-experiment-output.png
+│   │
+│   └── Tokenization-Experiment/
+│       ├── tokenization-experiment.py
+│       ├── README.md
+│       ├── requirements.txt
+│       └── screenshots/
+│           ├── capitalization-experiment.png
+│           ├── numbers-experiment.png
+│           └── technical-terminology-experiment.png
+│
+├── Part 2 — Using Pretrained Language Models/
+│   │
+│   ├── Intelligent-Multimodal-LLM-Assistant/
+│   │   ├── multimodal_assistant.py
+│   │   ├── README.md
+│   │   ├── requirements.txt
+│   │   └── screenshots/
+│   │       ├── input-image.png.jpg
+│   │       └── multimodal-assistant-output.png.jpg
+│   │
+│   ├── RAG-Based Semantic Search Assistant/
+│   │   ├── rag_assistant.py
+│   │   ├── README.md
+│   │   ├── requirements.txt
+│   │   └── screenshot/
+│   │       └── rag-assistant-output.png.jpg
+│   │
+│   └── Text-Classification-Topic-Analysis-System/
+│       ├── text_classification.py
+│       ├── topic_analysis.py
+│       ├── README.md
+│       ├── requirements.txt
+│       └── screenshots/
+│           ├── sentiment-classification.png.jpg
+│           └── topic-analysis.png.jpg
+│
+└── Part 3 — Training and Fine-Tuning Language Models/
+    │
+    ├── Domain-Specific-Embedding-Fine-Tuning/
+    │   ├── embedding_fine_tuning.py
+    │   ├── README.md
+    │   ├── requirements.txt
+    │   └── screenshot/
+    │       └── fine-tuning-output.png.jpg
+    │
+    ├── Fine-Tuned-Text-Classification-System/
+    │   ├── text_classification.py
+    │   ├── README.md
+    │   ├── requirements.txt
+    │   └── screenshot/
+    │       └── classification-output.png.jpg
+    │
+    └── LLM-Response-Evaluation-Experiment/
+        ├── response_evaluation.py
+        ├── README.md
+        └── screenshot/
+            └── evaluation-output.png.jpg
 ```
 
 ## Part 1 - Understanding Language Models
@@ -36,7 +101,7 @@ The projects in this repository were developed alongside the following learning 
 - *Hands-On Large Language Models* — Jay Alammar and Maarten Grootendorst
 - [Machine Learning Specialization — DeepLearning.AI & Stanford Online](https://coursera.org/verify/specialization/XMIS9P0D46F5)
 - [Uygulama Tabanlı Makine Öğrenimi — Turkcell](https://gelecegiyazanlar.turkcell.com.tr/sertifika/1a639928a95c485bae69aba73dd1a25f)
-- Doğal Dil İşleme — Turkcell
+- [Doğal Dil İşleme — Turkcell](https://gelecegiyazanlar.turkcell.com.tr/sertifika/61329f43cc3d4df6be9482899364be23)
 
 The Machine Learning Specialization was completed through Coursera, and the certificate was earned.
 
